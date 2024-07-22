@@ -191,5 +191,21 @@
 
 //==========================================
 
-// object as a key
+// object as a key   => new Map da objectni key sifatida ishlatish imkoni boladi!
+
+
+// let deviceColor = new Map();
+
+// deviceColor.set('phone', 'black');
+// deviceColor.set('laptop', 'silver');
+// deviceColor.set({}, 'My key is an object');
+
+// console.log(deviceColor);
+
+///////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
 
