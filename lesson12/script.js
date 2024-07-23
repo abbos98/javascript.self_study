@@ -52,8 +52,6 @@
 // console.log(n);
 
 
-
-
 // var n = 5;
 // console.log(n);
 
@@ -69,7 +67,8 @@
 
 
 // function myFunc() {                        
-//     var n = 10;        
+//     var n = 10;  
+//     console.log(n);      
 // }
 
 // myFunc();
@@ -81,8 +80,8 @@
 
 // function myFunc() {
 //     var num = 100;       //function scope
-//     // let num = 200;       //function scope
-//     // const num = 400;     //function scope
+//     let num = 200;       //function scope
+//     const num = 400;     //function scope 
 // }
 
 // myFunch();
@@ -182,3 +181,7 @@
 
 //     console.log(person.fullName);                             //chaqirganda qavisiz chaqirish kk!
            
+
+
+
+
