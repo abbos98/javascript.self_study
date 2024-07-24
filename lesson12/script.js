@@ -45,7 +45,7 @@
 // function myFunc() {                        
 //     n = 10;
 // }
-// // Agar function chaqirilmasa qiymatini olmaydi!
+// // // Agar function chaqirilmasa qiymatini olmaydi!
 
 // console.log(n);
 // myFunc();
