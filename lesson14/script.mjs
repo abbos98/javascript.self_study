@@ -3,9 +3,9 @@
 
 // arrow syntex
 
-// (() => {
-//     console.log('salom');
-// })();
+// ((name) => {
+//     console.log(`Hello ${name}`);
+// })('Abbos');
 
 // =============================
 
@@ -19,10 +19,9 @@
 
 // declaration syntax
 
-// (function myclick() {
+// (function click() {
 //     console.log('salom');
 // })();
-
 
 // Compare funtion
 
@@ -31,18 +30,15 @@
 // (() => {
 
 
-// function name() {
-//     console.log('salom1');
+
+// function clickMe() {
+//     console.log('Salom ukam!');
 // }
-// name();
+// clickMe();
 
 // })();
 
 // =======================================================================
-
-
-
-
 
 //  <<< Module => malum fayldan boshqa bir faylga export import qilish Es6 da qo'shilgan! >>>
 
@@ -107,7 +103,7 @@
 // console.log(sayHi('Abbos'));
 
 
-// =============================
+
 // impure function 
 
 //impure function tashqi tasr boladi shungan oldindan nima bolishini predict qilish qiying
@@ -119,7 +115,6 @@
 //     console.log(`${greeting} ${name}`);
 // }
 // console.log(sayHi('Abbos'));
-
 
 
 // =================================================================================
