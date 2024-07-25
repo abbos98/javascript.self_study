@@ -124,7 +124,7 @@
 // let d = new Date();
 
 // console.log(d); // => hozirgi vaqtni korsatadi!
-// console.log(d.getDate());  => bugungi sanani korsatadi!
+// console.log(d.getDate()); // => bugungi sanani korsatadi!
 // console.log(d.getDay()); // => haftaning nechinchi kunligini olib beradi!
 // console.log(d.getMonth()); // =>hozir nechinchi oyligini chiqarib beradi (faqat 1 minus bilan korsatadi chingi javascriptda oylar 0dan boshlanadi!)
 // console.log(d.getFullYear()); // => yilni chiqarib beradi!
