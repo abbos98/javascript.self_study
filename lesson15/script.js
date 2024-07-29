@@ -1,15 +1,20 @@
 // Higher ordered function
 
-//function paramentr sifatida biror bir boshqa functioni qabul qila olishi (map, filter, sort ec... )
+// function paramentr sifatida biror bir boshqa array methodlarini qabul qila olishi (map, filter, sort ec... )
 
 // const numbers = [1, 2, 3, 4, 5,];
 
-// numbers.forEach((n) => {
+// numbers.map((n) => {
 //     console.log(n + 1);
 // });
 
-// =====================================================================================================
+// const name = [1, 2, 3, 4, 5];
 
+// name.map((a) => {
+//     console.log(a - 1);
+// })
+
+// =====================================================================================================
 
 // callback function
 
@@ -79,3 +84,4 @@
 // }
 // let pr = new car3('Tesla','G-3','white','250 p/h','expensive')
 // pr.clickIt();
+
