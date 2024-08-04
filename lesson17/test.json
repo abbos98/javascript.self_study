@@ -1,0 +1,15 @@
+
+[
+    {
+        "name" : "webbrain",
+        "numberOfEmployees" : 10,
+        "CEO" : "Sardorbek",
+        "Rating" : 4.5
+    },
+    {
+        "name" : "G-3",
+        "numberOfEmployees" : 5,
+        "CEO" : "Bekzod",
+        "Rating" : 4.9
+    }
+]
